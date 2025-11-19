@@ -3,7 +3,7 @@ import React from 'react'
 function page() {
   return (
     <div>
-      <h1 className='text-5xl font-bold'>Forgot Password Page</h1>
+      <h1>Customer page</h1>
     </div>
   )
 }
