@@ -1,0 +1,2124 @@
+[00:00:03.278] Server  LOG      ✓ Ready in 2.5s
+[00:00:21.685] Server  LOG      ○ Compiling /post/[postid] ...
+[00:00:22.325] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:00:22.325] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:00:23.093] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:00:23.625] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:00:23.626] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:00:23.685] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:35.398] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:35.434] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.435] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.534] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.535] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.564] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:15:35.801] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.801] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:35.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:15:40.859] Server  LOG      ✓ Compiled in 53ms
+[00:15:41.234] Browser ERROR   ./src/app/post/[postid]/error.tsx:3:1
+Parsing ecmascript source code failed
+  1 | "use client"
+  2 | import 
+> 3 | import { useTransition } from 'react'
+    | ^^^^^^
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+  6 |    
+
+Expected 'from', got 'import'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:15:42.624] Server  LOG      ✓ Compiled in 24ms
+[00:15:43.240] Browser ERROR   ./src/app/post/[postid]/error.tsx:3:1
+Parsing ecmascript source code failed
+  1 | "use client"
+  2 | import use
+> 3 | import { useTransition } from 'react'
+    | ^^^^^^
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+  6 |    
+
+Expected ',', got 'import'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:15:45.236] Browser ERROR   ./src/app/post/[postid]/error.tsx:3:1
+Parsing ecmascript source code failed
+  1 | "use client"
+  2 | import useRo
+> 3 | import { useTransition } from 'react'
+    | ^^^^^^
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+  6 |    
+
+Expected ',', got 'import'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:15:48.196] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.197] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.236] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:15:48.243] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:15:48.262] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.262] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.518] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.518] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:15:48.528] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:29.140] Server  LOG      ✓ Compiled in 26ms
+[00:16:30.234] Browser ERROR   ./src/app/post/[postid]/error.tsx:7:5
+Parsing ecmascript source code failed
+   5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+   6 |    const 
+>  7 |     const [isPending, startTransition] = useTransition();
+     |     ^^^^^
+   8 |     function handleClick() {
+   9 |         router.refresh();
+  10 |         startTransition(() => {
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:16:36.818] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:36.819] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:36.886] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:36.901] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:36.902] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:36.925] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:16:37.152] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:37.152] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:37.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:38.242] Browser ERROR   uncaughtError: ReferenceError: use is not defined
+[00:16:39.043] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:16:39.046] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:39.047] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:16:39.087] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:39.087] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:39.359] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:39.360] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:39.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:49.016] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:49.028] Server  LOG      ✓ Compiled in 35ms
+[00:16:49.059] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:49.060] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:49.124] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:16:49.356] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:49.356] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:49.368] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:50.242] Browser ERROR   uncaughtError: TypeError: function is not iterable (cannot read property Symbol(Symbol.iterator))
+[00:16:50.881] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:16:50.882] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:50.883] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:16:50.898] Server  LOG      ✓ Compiled in 31ms
+[00:16:50.935] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:50.936] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:51.358] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:51.359] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:51.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:53.103] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:53.106] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:53.159] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:16:53.423] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:53.424] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:16:53.445] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:00.624] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:17:00.674] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:00.675] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:00.759] Server  LOG      ✓ Compiled in 35ms
+[00:17:00.957] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:00.958] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:00.971] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:11.112] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.114] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.116] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.118] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.120] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.121] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.122] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.124] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.125] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.127] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.129] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.130] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.134] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.138] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.140] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.141] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.143] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.144] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.146] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.147] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.152] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.154] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.156] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.158] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.160] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.162] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.165] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.168] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:11.169] Server  LOG      ✓ Compiled in 47ms
+[00:17:12.194] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.196] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.198] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.200] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.202] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.204] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.206] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.208] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.210] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.211] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.213] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.214] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.215] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.216] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.217] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.219] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.221] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.222] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.223] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.224] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.226] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.227] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.228] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.229] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.231] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.232] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.233] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.234] Server  ERROR    ⨯ ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:17:12.240] Server  LOG      ✓ Compiled in 34ms
+[00:17:12.241] Browser ERROR   ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve 'n'
+  1 | "use client"
+> 2 | import { useRouter } from 'n';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:13.238] Browser ERROR   ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:15.242] Browser ERROR   ./src/app/post/[postid]/error.tsx:2:1
+Module not found: Can't resolve ''
+  1 | "use client"
+> 2 | import { useRouter } from '';
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  3 | import { useTransition } from 'react'
+  4 |
+  5 | export default function error({ error, reset }: { error: Error, reset: () => void }) {
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[00:17:16.458] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:16.459] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:17.592] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:17.593] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:17.620] Server  ERROR    ⨯ Error: ❌ Post Page Error
+[00:17:17.861] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:17.862] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:17.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:35.680] Server  LOG      ✓ Compiled in 28ms
+[00:17:36.236] Browser ERROR   ./src/app/post/[postid]/error.tsx:16:13
+Parsing ecmascript source code failed
+  14 |     return (
+  15 |         <div>enter mt-8'>{error.message}</h1>
+> 16 |             <div className="p-8">
+     |             ^
+  17 |                 <button onClick={() => handleCli
+  18 |             <h1 className='font-bold text-4xl text-cck} className="py-4 px-5 border rounded-md hover:cursor-pointer w-full">Try Again</button>
+  19 |             </div>
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:17:36.236] Browser ERROR   ./src/app/post/[postid]/error.tsx:15:25
+Parsing ecmascript source code failed
+  13 |     }
+  14 |     return (
+> 15 |         <div>enter mt-8'>{error.message}</h1>
+     |                         ^
+  16 |             <div className="p-8">
+  17 |                 <button onClick={() => handleCli
+  18 |             <h1 className='font-bold text-4xl text-cck} className="py-4 px-5 border rounded-md hover:cursor-pointer w-full">Try Again</button>
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/app/post/[postid]/error.tsx [Client Component Browser]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/post/[postid]/error.tsx [Client Component SSR]
+    ./src/app/post/[postid]/error.tsx [Server Component]
+[00:17:36.841] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/post/[postid]/error.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:17:36.844] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:36.845] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:36.896] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:36.897] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:37.150] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:37.150] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[00:17:37.166] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[43:49:17.119] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[43:49:17.128] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+

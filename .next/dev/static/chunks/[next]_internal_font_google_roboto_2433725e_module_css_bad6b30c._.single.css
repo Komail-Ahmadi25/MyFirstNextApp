@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/roboto_2433725e.module.css [app-client] (css) */
+@font-face {
+  font-family: Roboto Fallback;
+  src: local(Arial);
+  ascent-override: 92.98%;
+  descent-override: 24.47%;
+  line-gap-override: 0.0%;
+  size-adjust: 99.78%;
+}
+
+.roboto_2433725e-module__W4DhwW__className {
+  font-family: Roboto, Roboto Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_roboto_2433725e_module_css_bad6b30c._.single.css.map*/

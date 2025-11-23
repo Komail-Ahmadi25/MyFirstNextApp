@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/post/%5Bpostid%5D/page.tsx"],"sourcesContent":["import { notFound } from 'next/navigation';\r\nimport React from 'react'\r\n\r\nfunction randomNumber(num: number) {\r\n    return Math.floor(Math.random() * num)\r\n}\r\nasync function page({ params }: { params: Promise<{ post: string, postid: string }> }) {\r\n    const postid = (await params).postid;\r\n    const getrandomnum = randomNumber(2);\r\n    if (getrandomnum === 1) {\r\n        throw new Error(\"❌ Post Page Error\")\r\n    }\r\n    if (+postid > 1000) {\r\n        return notFound();\r\n    }\r\n    return (\r\n        <div>\r\n            <h1 className='text-4xl font-bold mt-8 text-center'>This is th post {postid}</h1>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;AAAA;AAAA;;;AAGA,SAAS,aAAa,GAAW;IAC7B,OAAO,KAAK,KAAK,CAAC,KAAK,MAAM,KAAK;AACtC;AACA,eAAe,KAAK,EAAE,MAAM,EAAyD;IACjF,MAAM,SAAS,CAAC,MAAM,MAAM,EAAE,MAAM;IACpC,MAAM,eAAe,aAAa;IAClC,IAAI,iBAAiB,GAAG;QACpB,MAAM,IAAI,MAAM;IACpB;IACA,IAAI,CAAC,SAAS,MAAM;QAChB,OAAO,IAAA,iMAAQ;IACnB;IACA,qBACI,8OAAC;kBACG,cAAA,8OAAC;YAAG,WAAU;;gBAAsC;gBAAiB;;;;;;;;;;;;AAGjF;uCAEe","debugId":null}}]
+}

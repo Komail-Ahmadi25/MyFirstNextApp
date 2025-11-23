@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[next]/internal/font/google/vazirmatn_4f84b944.module.css"],"sourcesContent":["@font-face {\n    font-family: 'Vazirmatn Fallback';\n    src: local(\"Arial\");\n    ascent-override: 101.87%;\ndescent-override: 53.36%;\nline-gap-override: 0.00%;\nsize-adjust: 100.66%;\n\n}\n.className {\n    font-family: 'Vazirmatn', 'Vazirmatn Fallback';\n    font-style: normal;\n\n}\n.variable {\n    --font-vazir-ma: 'Vazirmatn', 'Vazirmatn Fallback';\n}\n"],"names":[],"mappings":"AAAA;;;;;;;;;AASA;;;;;AAKA","ignoreList":[0]}}]
+}

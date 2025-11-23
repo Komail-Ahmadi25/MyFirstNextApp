@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/not-found.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction NotFound() {\r\n  return (\r\n    <div>\r\n      <h1 className='text-3xl text-center font-bold mt-17'>Sory, the page you are looking not found</h1>\r\n    </div>\r\n  );\r\n}\r\n// server side\r\n// client side\r\nexport default NotFound\r\n"],"names":[],"mappings":";;;;;;AAEA,SAAS;IACP,qBACE,8OAAC;kBACC,cAAA,8OAAC;YAAG,WAAU;sBAAuC;;;;;;;;;;;AAG3D;uCAGe","debugId":null}}]
+}

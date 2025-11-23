@@ -1,0 +1,20 @@
+/* [next]/internal/font/google/vazirmatn_51369f4c.module.css [app-client] (css) */
+@font-face {
+  font-family: Vazirmatn Fallback;
+  src: local(Arial);
+  ascent-override: 101.87%;
+  descent-override: 53.36%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.66%;
+}
+
+.vazirmatn_51369f4c-module__-vDHOG__className {
+  font-family: Vazirmatn, Vazirmatn Fallback;
+  font-style: normal;
+}
+
+.vazirmatn_51369f4c-module__-vDHOG__variable {
+  --font-geist-mono: "Vazirmatn", "Vazirmatn Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_vazirmatn_51369f4c_module_css_bad6b30c._.single.css.map*/

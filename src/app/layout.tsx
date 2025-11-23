@@ -2,7 +2,6 @@ import { Vazirmatn } from 'next/font/google'
 const vazir = Vazirmatn({ subsets: ['latin'] })
 import "./globals.css"
 import { Metadata } from 'next';
-import Navbar from './Navbar';
 export const metadata: Metadata = {
     title: {
         default: "HOME",
@@ -15,7 +14,6 @@ export default function layout({ children }: { children: React.ReactNode }) {
     return (
         <html lang="en">
             <body className={vazir.className}>
-                <Navbar /> 
                 {children}
             </body>
         </html>

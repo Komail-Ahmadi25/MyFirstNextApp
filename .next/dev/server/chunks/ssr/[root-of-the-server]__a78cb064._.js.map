@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/Product/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function page() {\r\n  return (\r\n    <div>\r\n        <h1 className='text-3xl font-bold  text-transparent bg-linear-90 from-green-500 to-green-300 bg-clip-text'>\r\n            this is the product page\r\n        </h1>\r\n    </div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACG,cAAA,8OAAC;YAAG,WAAU;sBAA6F;;;;;;;;;;;AAKnH","debugId":null}}]
+}

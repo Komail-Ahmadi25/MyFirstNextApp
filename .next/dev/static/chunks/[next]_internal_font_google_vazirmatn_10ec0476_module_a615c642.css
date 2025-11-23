@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/vazirmatn_10ec0476.module.css [app-client] (css) */
+@font-face {
+  font-family: Vazirmatn Fallback;
+  src: local(Arial);
+  ascent-override: 101.87%;
+  descent-override: 53.36%;
+  line-gap-override: 0.0%;
+  size-adjust: 100.66%;
+}
+
+.vazirmatn_10ec0476-module__e5Szta__className {
+  font-family: Vazirmatn, Vazirmatn Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_vazirmatn_10ec0476_module_a615c642.css.map*/

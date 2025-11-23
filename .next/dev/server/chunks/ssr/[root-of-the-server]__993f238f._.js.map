@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Nawid/Documents/my-Next-app/src/app/Product/Details2/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nexport default function page() {\r\n  return (\r\n    <div>\r\n       <h1 className='text-5xl font-bold text-center pt-52 '>\r\n          This is the product details page for product2\r\n        </h1>\r\n    </div>\r\n  )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACE,cAAA,8OAAC;YAAG,WAAU;sBAAwC;;;;;;;;;;;AAK7D","debugId":null}}]
+}

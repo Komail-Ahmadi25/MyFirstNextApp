@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/services/page.tsx"],"sourcesContent":["import React from 'react'\r\nimport Page from './page';\r\nfunction page() {\r\n    return (\r\n        <div>\r\n            <Page />\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;AACA;;;AACA,SAAS;IACL,qBACI,8OAAC;kBACG,cAAA,8OAAC,0IAAI;;;;;;;;;;AAGjB;uCAEe","debugId":null}}]
+}

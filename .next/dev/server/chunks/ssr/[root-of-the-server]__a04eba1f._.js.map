@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/Product/page.tsx"],"sourcesContent":["\r\nasync function page({ params }: { params: Promise<{ productid: string }> }) {\r\n  const productid = (await params).productid;\r\n  return (\r\n    <div>\r\n      This is the product details\r\n      {productid}\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;;AACA,eAAe,KAAK,EAAE,MAAM,EAA8C;IACxE,MAAM,YAAY,CAAC,MAAM,MAAM,EAAE,SAAS;IAC1C,qBACE,8OAAC;;YAAI;YAEF;;;;;;;AAGP;uCAEe","debugId":null}}]
+}

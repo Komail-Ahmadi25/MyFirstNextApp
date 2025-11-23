@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/Product/layout.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nfunction ProductDetailsLayout({ children }: {\r\n    childern: React.ReactNode\r\n}) {\r\n    return (\r\n        <div>\r\n            <h1 className='text-4xl'>This is the details page, coming form nested layout</h1>\r\n            {children}\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default ProductDetailsLayout;\r\n"],"names":[],"mappings":";;;;;;AAEA,SAAS,qBAAqB,EAAE,QAAQ,EAEvC;IACG,qBACI,8OAAC;;0BACG,8OAAC;gBAAG,WAAU;0BAAW;;;;;;YACxB;;;;;;;AAGb;uCAEe","debugId":null}}]
+}

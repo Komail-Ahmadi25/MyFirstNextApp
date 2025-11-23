@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app%20-%20Copy/src/app/aricles/%5Barticleid%5D/page.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nasync function page({\r\n    params,\r\n    searchParams\r\n}: {\r\n    params: Promise<{ articleId: string }>;\r\n    searchParams: Promise<{ lang?: string }>;\r\n}) {\r\n    const { articleId } = await params;\r\n    const { lang = \"en\" } = await searchParams;\r\n    return (\r\n        <div>\r\n            <h1 className=\"text-center font-bold text-4xl mt-10\">This is article {articleId}</h1>\r\n            <h1 className=\"text-center font-bold text-4xl mt-10\">You are reading this in {lang}</h1>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;;AAEA,eAAe,KAAK,EAChB,MAAM,EACN,YAAY,EAIf;IACG,MAAM,EAAE,SAAS,EAAE,GAAG,MAAM;IAC5B,MAAM,EAAE,OAAO,IAAI,EAAE,GAAG,MAAM;IAC9B,qBACI,8OAAC;;0BACG,8OAAC;gBAAG,WAAU;;oBAAuC;oBAAiB;;;;;;;0BACtE,8OAAC;gBAAG,WAAU;;oBAAuC;oBAAyB;;;;;;;;;;;;;AAG1F;uCAEe","debugId":null}}]
+}

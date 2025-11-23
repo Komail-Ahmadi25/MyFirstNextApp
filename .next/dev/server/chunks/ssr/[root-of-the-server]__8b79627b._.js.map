@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app%20-%20Copy/src/app/count/page.tsx"],"sourcesContent":["\"useClient\"\r\nimport React, { useState } from 'react'\r\n\r\nfunction page() {\r\n    const [value, setValue] = useState(0);\r\n    return (\r\n        <div>\r\n            <h1 className='text-4xl'>{value}</h1>\r\n            <button className='py-2 px-6 border' onClick={()=>setValue(value+1)}>Increamet</button>\r\n            <button className='py-2 px-6 border' onClick={()=>setValue(value-1)}>Decreament</button>\r\n        </div>\r\n    )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;AACA;AADA;;;AAGA,SAAS;IACL,MAAM,CAAC,OAAO,SAAS,GAAG,IAAA,iNAAQ,EAAC;IACnC,qBACI,8OAAC;;0BACG,8OAAC;gBAAG,WAAU;0BAAY;;;;;;0BAC1B,8OAAC;gBAAO,WAAU;gBAAmB,SAAS,IAAI,SAAS,QAAM;0BAAI;;;;;;0BACrE,8OAAC;gBAAO,WAAU;gBAAmB,SAAS,IAAI,SAAS,QAAM;0BAAI;;;;;;;;;;;;AAGjF;uCAEe","debugId":null}}]
+}

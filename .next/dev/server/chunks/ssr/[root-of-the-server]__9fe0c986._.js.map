@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/Product/page.tsx"],"sourcesContent":["import Link from 'next/link'\r\nimport React from 'react'\r\n\r\nfunction page() {\r\n  return (\r\n    <div>\r\n      <h1>All Products</h1>\r\n      <Link href=\"Product/1\">Product 1</Link>\r\n      <Link href=\"Product/2\">Product 2</Link>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAGA,SAAS;IACP,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC,0LAAI;gBAAC,MAAK;0BAAY;;;;;;0BACvB,8OAAC,0LAAI;gBAAC,MAAK;0BAAY;;;;;;;;;;;;AAG7B;uCAEe","debugId":null}}]
+}

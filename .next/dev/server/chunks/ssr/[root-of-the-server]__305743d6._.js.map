@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/page.tsx"],"sourcesContent":["import React from 'react'\n\nexport default function page() {\n  return (\n    <div>\n      <h1 className='text-3xl font-bold'>\n        this is the Home page\n      </h1>\n    </div>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;YAAG,WAAU;sBAAqB;;;;;;;;;;;AAKzC","debugId":null}}]
+}

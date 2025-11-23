@@ -1,0 +1,16 @@
+/* [next]/internal/font/google/instrument_sans_f37381fa.module.css [app-client] (css) */
+@font-face {
+  font-family: Instrument Sans Fallback;
+  src: local(Arial);
+  ascent-override: 94.42%;
+  descent-override: 24.33%;
+  line-gap-override: 0.0%;
+  size-adjust: 102.74%;
+}
+
+.instrument_sans_f37381fa-module__Re3yVW__className {
+  font-family: Instrument Sans, Instrument Sans Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_instrument_sans_f37381fa_module_css_bad6b30c._.single.css.map*/

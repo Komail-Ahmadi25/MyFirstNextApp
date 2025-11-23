@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app/src/app/Product/%5Bproductid%5D/%5Breviews%5D/page.tsx"],"sourcesContent":["import { notFound } from 'next/navigation';\r\nimport React from 'react'\r\n\r\nasync function page({\r\n    params,\r\n}: {\r\n    params: Promise<{ productid: string; reviews: string }>;\r\n}) {\r\n    const { productid, reviews } = await params\r\n    if (+reviews > 100) {\r\n        return notFound();\r\n    }\r\n    return (\r\n        <div>\r\n            <h1>\r\n                this is the details about product {productid} this product {reviews} times\r\n            </h1>\r\n        </div>\r\n    );\r\n}\r\n\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;AAAA;AAAA;;;AAGA,eAAe,KAAK,EAChB,MAAM,EAGT;IACG,MAAM,EAAE,SAAS,EAAE,OAAO,EAAE,GAAG,MAAM;IACrC,IAAI,CAAC,UAAU,KAAK;QAChB,OAAO,IAAA,iMAAQ;IACnB;IACA,qBACI,8OAAC;kBACG,cAAA,8OAAC;;gBAAG;gBACmC;gBAAU;gBAAe;gBAAQ;;;;;;;;;;;;AAIpF;uCAEe","debugId":null}}]
+}
