@@ -15,7 +15,7 @@ async function page({ params }: { params: Promise<{ post: string, postid: string
     }
     return (
         <div>
-            <h1 className='text-4xl font-bold mt-8 text-center'>This is th post {postid}</h1>
+            <h1 className='text-4xl font-bold mt-8 text-center'>This is the post {postid}</h1>
         </div>
     )
 }

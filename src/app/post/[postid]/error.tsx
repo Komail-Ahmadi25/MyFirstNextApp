@@ -1,10 +1,10 @@
 "use client"
 import { useRouter } from 'next/navigation';
-import { useTransition } from 'react'
+import { startTransition } from 'react';
 
 export default function error({ error, reset }: { error: Error, reset: () => void }) {
     const router = useRouter();
-    const [isPending, startTransition] = useTransition();
+    // const [startTransition] = startTransition();
     function handleClick() {
         router.refresh();
         startTransition(() => {
@@ -15,8 +15,8 @@ export default function error({ error, reset }: { error: Error, reset: () => voi
         <div>
             <h1 className='font-bold text-4xl text-center mt-8'>{error.message}</h1>
             <div className="p-8">
-                <button onClick={() => handleClick} className="py-4 px-5 border rounded-md hover:cursor-pointer w-full">Try Again</button>
-            </div>
+                <button onClick={() => handleClick()} className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold">Try Again</button>
+            </div>       
         </div>
     )
 }
