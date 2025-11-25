@@ -55,13 +55,13 @@ function layout({ children }) {
             children: children
         }, void 0, false, {
             fileName: "[project]/src/app/layout.tsx",
-            lineNumber: 16,
-            columnNumber: 13
+            lineNumber: 15,
+            columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/layout.tsx",
-        lineNumber: 15,
-        columnNumber: 9
+        lineNumber: 14,
+        columnNumber: 5
     }, this);
 }
 }),
