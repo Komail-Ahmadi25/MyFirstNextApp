@@ -42,7 +42,8 @@ async function page({ params }) {
             className: "text-4xl font-bold mt-8 text-center",
             children: [
                 "This is the Product ",
-                productid
+                productid,
+                " Page"
             ]
         }, void 0, true, {
             fileName: "[project]/src/app/product/[productid]/page.tsx",

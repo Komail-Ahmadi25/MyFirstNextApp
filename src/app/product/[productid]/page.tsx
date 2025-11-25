@@ -19,7 +19,7 @@ async function page({
   return (
     <div>
       <h1 className="text-4xl font-bold mt-8 text-center">
-        This is the Product {productid}
+        This is the Product {productid} Page
       </h1>
     </div>
   );

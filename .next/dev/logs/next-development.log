@@ -12748,3 +12748,1150 @@ Import trace:
 
 
 [33:10:24.222] Server  ERROR    ⨯ Error: ❌ Failed to load product data.
+[33:55:25.916] Server  LOG      ✓ Compiled in 224ms
+[33:55:26.034] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:32.179] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:32.179] Browser ERROR   ./src/app/product/[productid]/page.tsx:13:3
+Parsing ecmascript source code failed
+  11 |   const productid = (await params).productid;
+  12 |   const getrandomnum = randomNumber(2
+> 13 |   if (+productid > 1000) {
+     |   ^^
+  14 |     notFound();
+  15 |   }
+  16 |   return (
+
+Expected ',', got 'if'
+[33:58:34.035] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:36.022] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:36.022] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 | if
+> 14 |   if (+productid > 1000) {
+     |   ^^
+  15 |     notFound();
+  16 |   }
+  17 |   return (
+
+Expected '(', got 'if'
+[33:58:39.023] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:44.075] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:45.026] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:45.026] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 |   if
+> 14 |   if (+productid > 1000) {
+     |   ^^
+  15 |     notFound();
+  16 |   }
+  17 |   return (
+
+Expected '(', got 'if'
+[33:58:51.020] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:58:51.020] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 |   if
+> 14 |   if (+productid > 1000) {
+     |   ^^
+  15 |     notFound();
+  16 |   }
+  17 |   return (
+
+Expected '(', got 'if'
+[33:58:58.024] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:11.024] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:13.021] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:16.025] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:24.029] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:24.029] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:34.031] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:37.020] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:52.024] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[33:59:53.027] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:06.025] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:09.022] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:09.022] Browser ERROR   ./src/app/product/[productid]/page.tsx:17:3
+Parsing ecmascript source code failed
+  15 |   }
+  16 |   if
+> 17 |   return (
+     |   ^^^^^^
+  18 |     <div>
+  19 |       <h1 className="text-4xl font-bold mt-8 text-center">
+  20 |         This is the Product {productid}
+
+Expected '(', got 'return'
+[34:00:10.029] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:13.027] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:19.027] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:22.030] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:22.030] Browser ERROR   ./src/app/product/[productid]/page.tsx:23:1
+Parsing ecmascript source code failed
+  21 | }
+  22 |
+> 23 | export default page;
+     | ^^^^^^
+  24 |
+
+'import', and 'export' cannot be used outside of module code
+[34:00:23.026] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:23.026] Browser ERROR   ./src/app/product/[productid]/page.tsx:24:1
+Parsing ecmascript source code failed
+  22 | }
+  23 |
+> 24 | export default page;
+     | ^^^^^^
+  25 |
+
+'import', and 'export' cannot be used outside of module code
+[34:00:26.035] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:27.035] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:28.024] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:32.021] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:32.022] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 | if(ge
+> 14 |   return (
+     |   ^^^^^^
+  15 |     <div>
+  16 |       <h1 className="text-4xl font-bold mt-8 text-center">
+  17 |         This is the Product {productid}
+
+Expected ')', got 'return'
+[34:00:34.026] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:34.026] Browser ERROR   ./src/app/product/[productid]/page.tsx:23:1
+Parsing ecmascript source code failed
+  21 | }
+  22 |
+> 23 | export default page;
+     | ^^^^^^
+  24 |
+
+'import', and 'export' cannot be used outside of module code
+[34:00:44.021] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:45.038] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:53.023] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:53.023] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 | if
+> 14 |   return (
+     |   ^^^^^^
+  15 |     <div>
+  16 |       <h1 className="text-4xl font-bold mt-8 text-center">
+  17 |         This is the Product {productid}
+
+Expected '(', got 'return'
+[34:00:56.031] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:56.031] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 | if
+> 14 |   return (
+     |   ^^^^^^
+  15 |     <div>
+  16 |       <h1 className="text-4xl font-bold mt-8 text-center">
+  17 |         This is the Product {productid}
+
+Expected '(', got 'return'
+[34:00:57.034] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:00:57.034] Browser ERROR   ./src/app/product/[productid]/page.tsx:23:1
+Parsing ecmascript source code failed
+  21 | }
+  22 |
+> 23 | export default page;
+     | ^^^^^^
+  24 |
+
+'import', and 'export' cannot be used outside of module code
+[34:01:07.025] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:10.032] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:10.032] Browser ERROR   ./src/app/product/[productid]/page.tsx:15:1
+Parsing ecmascript source code failed
+  13 | if (getrandomnum === 1) {
+  14 | throw new
+> 15 | }
+     | ^
+  16 |   return (
+  17 |     <div>
+  18 |       <h1 className="text-4xl font-bold mt-8 text-center">
+
+Expression expected
+[34:01:13.034] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:16.031] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:21.033] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:45.020] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:52.028] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:01:52.028] Browser ERROR   ./src/app/product/[productid]/page.tsx:16:6
+Parsing ecmascript source code failed
+  14 |     throw new Error("❌ Failed to load product data");
+  15 |   }
+> 16 |   if()
+     |      ^
+  17 |   return (
+  18 |     <div>
+  19 |       <h1 className="text-4xl font-bold mt-8 text-center">
+
+Expression expected
+[34:02:02.030] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:02:02.030] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:02:03.023] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:02:08.028] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:02:13.035] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:03:20.021] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:03:23.028] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+[34:03:26.031] Browser ERROR   ./src/app/product/[productid]/error.tsx:21:67
+Parsing ecmascript source code failed
+  19 |   return (
+  20 |     <div>
+> 21 |       <h1 className="font-bold text-4xl text-center mt-12">{error.}</h1>
+     |                                                                   ^
+  22 |       <div className="p-8">
+  23 |         <button
+  24 |           className="py-4 px-5 ml-[535px] mt-11 rounded-md hover:cursor-pointer w-[30%] hover:scale-110 scale-100 border-0 transition-all duration-700 bg-gray-500 hover:bg-gray-600  text-2xl font-bold"
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/product/[productid]/error.tsx [Client Component Browser]
+    ./src/app/product/[productid]/error.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/product/[productid]/error.tsx [Client Component SSR]
+    ./src/app/product/[productid]/error.tsx [Server Component]
