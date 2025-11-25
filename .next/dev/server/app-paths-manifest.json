@@ -1,7 +1,9 @@
 {
+  "/(homepage)/page": "app/(homepage)/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/@profile/private/page": "app/dashboard/@profile/private/page.js",
   "/dashboard/page": "app/dashboard/page.js",
+  "/page": "app/page.js",
   "/post/[postid]/page": "app/post/[postid]/page.js",
-  "/product/[productid]/page": "app/product/[productid]/page.js",
-  "/products/page": "app/products/page.js"
+  "/product/[productid]/page": "app/product/[productid]/page.js"
 }

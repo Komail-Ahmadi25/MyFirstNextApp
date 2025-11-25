@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/my-Next-app%20-%20Copy/src/app/page.tsx"],"sourcesContent":["import Link from 'next/link'\r\nimport React from 'react'\r\n\r\nfunction page() {\r\n  return (\r\n    <div>\r\n      <h1>Main Page</h1>\r\n      <Link href=\"/count\">Count</Link>\r\n      <Link href=\"/(markets)/customer\">M</Link>\r\n    </div>\r\n  )\r\n}\r\n\r\nexport default page\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAGA,SAAS;IACP,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC,0LAAI;gBAAC,MAAK;0BAAS;;;;;;0BACpB,8OAAC,0LAAI;gBAAC,MAAK;0BAAsB;;;;;;;;;;;;AAGvC;uCAEe","debugId":null}}]
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/page.tsx"],"sourcesContent":["import Link from \"next/link\";\r\nimport React from \"react\";\r\n\r\nfunction page() {\r\n  return (\r\n    <div className=\"mt-16 p-12\">\r\n      <h1>Home page</h1>\r\n    </div>\r\n  );\r\n}\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;;AAGA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV;uCACe","debugId":null}}]
 }

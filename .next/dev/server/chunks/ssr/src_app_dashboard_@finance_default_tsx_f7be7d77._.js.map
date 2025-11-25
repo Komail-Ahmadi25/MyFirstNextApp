@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/dashboard/%40finance/default.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function page() {\r\n  return (\r\n    <div>\r\n      <h1>Default Section</h1>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;kBACC,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV","debugId":null}}]
+}
