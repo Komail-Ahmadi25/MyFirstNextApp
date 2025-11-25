@@ -12582,3 +12582,169 @@ Import trace:
     ./src/app/layout.tsx
 
 
+[33:09:54.686] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:09:54.688] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:04.041] Browser ERROR   ./src/app/product/[productid]/page.tsx:14:3
+Parsing ecmascript source code failed
+  12 |   const getrandomnum = randomNumber(2);
+  13 |   if
+> 14 |   if (+productid > 1000) {
+     |   ^^
+  15 |     notFound();
+  16 |   }
+  17 |   return (
+
+Expected '(', got 'if'
+[33:10:05.023] Browser ERROR   ./src/app/product/[productid]/page.tsx:13:6
+Parsing ecmascript source code failed
+  11 |   const productid = (await params).productid;
+  12 |   const getrandomnum = randomNumber(2);
+> 13 |   if()
+     |      ^
+  14 |   if (+productid > 1000) {
+  15 |     notFound();
+  16 |   }
+
+Expression expected
+[33:10:05.974] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:05.974] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:06.092] Server  ERROR    ⨯ ReferenceError: g is not defined
+[33:10:08.235] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:08.236] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:10.027] Browser ERROR   ./src/app/product/[productid]/page.tsx:26:1
+Parsing ecmascript source code failed
+  24 | }
+  25 |
+> 26 | export default page;
+     | ^^^^^^
+  27 |
+
+'import', and 'export' cannot be used outside of module code
+[33:10:11.014] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:11.015] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:11.200] Server  ERROR    ⨯ Error: Failed to load product data.
+[33:10:18.852] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:18.853] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:24.065] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+Error while requesting resource
+There was an issue establishing a connection while requesting https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100..900&display=swap
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:24.065] Server  WARN     ⚠ [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+next/font: warning:
+Failed to download `Vazirmatn` from Google Fonts. Using fallback font instead.
+
+Import trace:
+  Server Component:
+    [next]/internal/font/google/vazirmatn_4b3a6779.module.css
+    [next]/internal/font/google/vazirmatn_4b3a6779.js
+    ./src/app/layout.tsx
+
+
+[33:10:24.222] Server  ERROR    ⨯ Error: ❌ Failed to load product data.

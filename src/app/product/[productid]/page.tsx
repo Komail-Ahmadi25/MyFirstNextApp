@@ -11,7 +11,7 @@ async function page({
   const productid = (await params).productid;
   const getrandomnum = randomNumber(2);
   if (getrandomnum === 1) {
-    throw new Error("❌ Product Page Error");
+    throw new Error("❌ Failed to load product data.");
   }
   if (+productid > 1000) {
     notFound();

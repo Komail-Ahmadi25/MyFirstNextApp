@@ -32,7 +32,7 @@ async function page({ params }) {
     const productid = (await params).productid;
     const getrandomnum = randomNumber(2);
     if (getrandomnum === 1) {
-        throw new Error("❌ Product Page Error");
+        throw new Error("❌ Failed to load product data.");
     }
     if (+productid > 1000) {
         (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$components$2f$navigation$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["notFound"])();
