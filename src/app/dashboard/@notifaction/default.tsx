@@ -1,9 +1,11 @@
 import React from "react";
 
-export default function page() {
+function page() {
   return (
     <div>
-      <h1>Default Section</h1>
+      <h1 className="text-center text-3xl font-bold p-8">Default Notifaction</h1>
     </div>
   );
 }
+
+export default page;

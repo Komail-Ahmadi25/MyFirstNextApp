@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/dashboard/%40profile/default.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction page() {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-center text-3xl font-bold p-8\">Default Page</h1>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;;AAEA,SAAS;IACP,qBACE,8OAAC;kBACC,cAAA,8OAAC;YAAG,WAAU;sBAAqC;;;;;;;;;;;AAGzD;uCAEe","debugId":null}}]
+}

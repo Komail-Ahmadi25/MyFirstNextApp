@@ -2,6 +2,7 @@
   "/(homepage)/page": "app/(homepage)/page.js",
   "/_not-found/page": "app/_not-found/page.js",
   "/dashboard/@finance/personal/page": "app/dashboard/@finance/personal/page.js",
+  "/dashboard/@notifaction/notread/page": "app/dashboard/@notifaction/notread/page.js",
   "/dashboard/@profile/private/page": "app/dashboard/@profile/private/page.js",
   "/dashboard/page": "app/dashboard/page.js",
   "/page": "app/page.js",
