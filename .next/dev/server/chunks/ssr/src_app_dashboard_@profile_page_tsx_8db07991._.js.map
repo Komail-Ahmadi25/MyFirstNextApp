@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/dashboard/%40profile/page.tsx"],"sourcesContent":["import Link from \"next/link\";\r\n\r\nfunction page() {\r\n  return (\r\n    <div>\r\n      <h1 className=\"text-center text-3xl font-bold p-8\">Profile Section</h1>\r\n      <Link href=\"/dashboard/private\">Go to Private Profile</Link>\r\n    </div>\r\n  );\r\n}\r\n\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;AAAA;;;AAEA,SAAS;IACP,qBACE,8OAAC;;0BACC,8OAAC;gBAAG,WAAU;0BAAqC;;;;;;0BACnD,8OAAC,0LAAI;gBAAC,MAAK;0BAAqB;;;;;;;;;;;;AAGtC;uCAEe","debugId":null}}]
+}
