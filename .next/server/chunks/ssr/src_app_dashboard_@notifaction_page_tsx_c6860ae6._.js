@@ -1,0 +1,3 @@
+module.exports=[71447,a=>{"use strict";var b=a.i(7997),c=a.i(95936);a.s(["default",0,function(){return(0,b.jsxs)("div",{children:[(0,b.jsx)("h1",{className:"text-center text-3xl font-bold p-8",children:"Notifaction Section"}),(0,b.jsx)(c.default,{href:"/dashboard/notread",children:"Go to Not Readed Notifaction"})]})}])}];
+
+//# sourceMappingURL=src_app_dashboard_%40notifaction_page_tsx_c6860ae6._.js.map

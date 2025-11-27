@@ -1,5 +1,5 @@
-import { Vazirmatn } from "next/font/google";
-const vazir = Vazirmatn({ subsets: ["latin"] });
+// import { Vazirmatn } from "next/font/google";
+// const vazir = Vazirmatn({ subsets: ["latin"] });
 import "../globals.css";
 export default function layout({
   children,
@@ -14,7 +14,7 @@ export default function layout({
 }) {
   return (
     <html lang="en">
-      <body className={vazir.className}>
+      <body>
         {children}
         <div className="flex justify-between p-12 font-bold text-2xl">
           <div>{finance}</div>

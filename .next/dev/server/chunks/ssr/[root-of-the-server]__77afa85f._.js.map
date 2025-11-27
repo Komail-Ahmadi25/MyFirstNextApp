@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/F5/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nexport default function page() {\r\n  return (\r\n    <div className=\"flex w-full h-screen justify-center items-center\">\r\n      <div className=\"p-10 text-center border\">\r\n        <h1>This is the Folder 5</h1>\r\n      </div>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAI,WAAU;sBACb,cAAA,8OAAC;0BAAG;;;;;;;;;;;;;;;;AAIZ","debugId":null}}]
+}

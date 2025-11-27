@@ -1,0 +1,3 @@
+module.exports=[43619,a=>{a.n(a.i(79962))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},62212,a=>{a.n(a.i(66114))},2211,a=>{"use strict";var b=a.i(7997);a.i(70396);var c=a.i(73727);async function d({params:a}){let d=(await a).postid;if(1===Math.floor(2*Math.random()))throw Error("❌ Post Page Error");return+d>1e3?(0,c.notFound)():(0,b.jsx)("div",{children:(0,b.jsxs)("h1",{className:"text-4xl font-bold mt-8 text-center",children:["This is the Post ",d]})})}a.s(["default",0,d])}];
+
+//# sourceMappingURL=_18724666._.js.map

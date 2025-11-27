@@ -1,0 +1,3 @@
+module.exports=[43619,a=>{a.n(a.i(79962))},13718,a=>{a.n(a.i(85523))},18198,a=>{a.n(a.i(45518))},62212,a=>{a.n(a.i(66114))},15843,a=>{a.n(a.i(18357))},62514,a=>{a.n(a.i(99123))},33934,a=>{a.n(a.i(82321))},91048,a=>{a.n(a.i(71447))},88532,a=>{a.n(a.i(82232))},82232,a=>{"use strict";var b=a.i(7997),c=a.i(95936);a.s(["default",0,function(){return(0,b.jsxs)("div",{children:[(0,b.jsx)("h1",{className:"text-center text-3xl font-bold p-8",children:"Profile Section"}),(0,b.jsx)(c.default,{href:"/dashboard/private",children:"Go to Private Profile"})]})}])}];
+
+//# sourceMappingURL=_92ce04fe._.js.map
