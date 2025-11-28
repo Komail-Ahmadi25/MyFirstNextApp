@@ -2,7 +2,7 @@ import React from "react";
 
 function page() {
   return (
-    <div className="ml-22 text-2xl font-semibold mt-22">
+    <div className="text-2xl font-semibold mt-22 text-center">
       <h1>Home page</h1>
     </div>
   );

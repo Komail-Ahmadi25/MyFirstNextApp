@@ -1511,6 +1511,28 @@ self.__BUILD_MANIFEST = {
         ],
         "source": "/gallery/:nxtIid",
         "destination": "/gallery/(.):nxtIid"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "next-url",
+            "value": "/gallery(?:/.*)?"
+          }
+        ],
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
+      },
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "next-url",
+            "value": "/gallery(?:/.*)?"
+          }
+        ],
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       }
     ],
     "fallback": []
