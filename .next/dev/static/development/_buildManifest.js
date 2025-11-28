@@ -10,2673 +10,1507 @@ self.__BUILD_MANIFEST = {
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       },
       {
         "has": [
           {
             "type": "header",
             "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
+            "value": "/gallery(?:/.*)?"
           }
         ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F1/F2",
-        "destination": "/F1/(.)F2"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1/F2(?:/.*)?"
-          }
-        ],
-        "source": "/F5",
-        "destination": "/F1/F2/(..)(..)F5"
-      },
-      {
-        "has": [
-          {
-            "type": "header",
-            "key": "next-url",
-            "value": "/F1(?:/.*)?"
-          }
-        ],
-        "source": "/F3",
-        "destination": "/F1/(..)F3"
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
       }
     ],
     "fallback": []

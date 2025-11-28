@@ -6,32 +6,26 @@ export const photos: {
 }[] = [
   {
     id: 1,
-    name: "Egypt Pyrams",
-    url: "/images/p1.jpg",
+    name: "Lorem Episum 1",
+    url: "/images/p1.png",
     photographer: "Ali",
   },
   {
     id: 2,
-    name: "Egypt Pyrams",
-    url: "/images/p2.jpg",
+    name: "Lorem Episum 2",
+    url: "/images/p2.png",
     photographer: "Ali",
   },
   {
     id: 3,
-    name: "Egypt Pyrams",
-    url: "/images/p3.jpg",
+    name: "Lorem Episum 3",
+    url: "/images/p3.png",
     photographer: "Ali",
   },
   {
     id: 4,
-    name: "Egypt Pyrams",
-    url: "/images/p4.jpg",
-    photographer: "Ali",
-  },
-  {
-    id: 5,
-    name: "Egypt Pyrams",
-    url: "/images/p5.jpg",
+    name: "Lorem Episum 4",
+    url: "/images/p4.png",
     photographer: "Ali",
   },
 ];

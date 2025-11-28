@@ -1,11 +1,6 @@
 {
-  "/F1/(.)F2/page": "app/F1/(.)F2/page.js",
-  "/F1/(..)F3/page": "app/F1/(..)F3/page.js",
-  "/F1/F2/(..)(..)F5/page": "app/F1/F2/(..)(..)F5/page.js",
-  "/F1/F2/page": "app/F1/F2/page.js",
-  "/F1/page": "app/F1/page.js",
-  "/F3/page": "app/F3/page.js",
-  "/F5/page": "app/F5/page.js",
+  "/(homepage)/page": "app/(homepage)/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/gallery/[id]/page": "app/gallery/[id]/page.js",
   "/gallery/page": "app/gallery/page.js"
 }

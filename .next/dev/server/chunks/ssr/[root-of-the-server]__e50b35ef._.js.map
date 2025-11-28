@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/%28homepage%29/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction page() {\r\n  return (\r\n    <div className=\"mt-16 p-12\">\r\n      <h1>Home page</h1>\r\n    </div>\r\n  );\r\n}\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;;AAEA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV;uCACe","debugId":null}}]
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/%28homepage%29/page.tsx"],"sourcesContent":["import React from \"react\";\r\n\r\nfunction page() {\r\n  return (\r\n    <div className=\"ml-22 text-2xl font-semibold mt-22\">\r\n      <h1>Home page</h1>\r\n    </div>\r\n  );\r\n}\r\nexport default page;\r\n"],"names":[],"mappings":";;;;;;AAEA,SAAS;IACP,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;sBAAG;;;;;;;;;;;AAGV;uCACe","debugId":null}}]
 }

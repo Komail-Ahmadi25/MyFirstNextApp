@@ -18,12 +18,12 @@ function layout({ children }) {
             children: children
         }, void 0, false, {
             fileName: "[project]/src/app/gallery/layout.tsx",
-            lineNumber: 17,
+            lineNumber: 18,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/src/app/gallery/layout.tsx",
-        lineNumber: 16,
+        lineNumber: 17,
         columnNumber: 5
     }, this);
 }

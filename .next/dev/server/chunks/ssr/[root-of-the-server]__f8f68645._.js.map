@@ -1,5 +1,6 @@
 {
   "version": 3,
   "sources": [],
-  "sections": []
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/komail/Documents/Code/NEXT_CODE/Home-Work/src/app/gallery/page.tsx"],"sourcesContent":["import React from \"react\";\r\nimport { photos } from \"../lib/photolib\";\r\n\r\nexport default function page() {\r\n  return (\r\n    <div className=\"w-full grid grid-cols-1 md:grid-cols-4\">\r\n      {}\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAGe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;;;;;;AAInB","debugId":null}}]
 }

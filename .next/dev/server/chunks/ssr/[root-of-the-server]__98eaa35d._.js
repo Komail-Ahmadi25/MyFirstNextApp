@@ -19,32 +19,26 @@ __turbopack_context__.s([
 const photos = [
     {
         id: 1,
-        name: "Egypt Pyrams",
-        url: "/images/p1.jpg",
+        name: "Lorem Episum 1",
+        url: "/images/p1.png",
         photographer: "Ali"
     },
     {
         id: 2,
-        name: "Egypt Pyrams",
-        url: "/images/p2.jpg",
+        name: "Lorem Episum 2",
+        url: "/images/p2.png",
         photographer: "Ali"
     },
     {
         id: 3,
-        name: "Egypt Pyrams",
-        url: "/images/p3.jpg",
+        name: "Lorem Episum 3",
+        url: "/images/p3.png",
         photographer: "Ali"
     },
     {
         id: 4,
-        name: "Egypt Pyrams",
-        url: "/images/p4.jpg",
-        photographer: "Ali"
-    },
-    {
-        id: 5,
-        name: "Egypt Pyrams",
-        url: "/images/p5.jpg",
+        name: "Lorem Episum 4",
+        url: "/images/p4.png",
         photographer: "Ali"
     }
 ];
@@ -57,34 +51,36 @@ __turbopack_context__.s([
     ()=>page
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/client/app-dir/link.react-server.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$lib$2f$photolib$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/app/lib/photolib.ts [app-rsc] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [app-rsc] (ecmascript)");
+;
+;
 ;
 ;
 function page() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "w-full grid grid-cols-1 md:grid-cols-4",
+        className: "w-full mt-12 gap-12 p-10 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4",
         children: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$app$2f$lib$2f$photolib$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["photos"].map((photo)=>/*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                children: [
-                    "2",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Image, {
-                            className: "h-52 mt-12 gap-4",
-                            src: photo.url,
-                            height: 800,
-                            width: 800,
-                            alt: `${photo.id}`
-                        }, void 0, false, {
-                            fileName: "[project]/src/app/gallery/page.tsx",
-                            lineNumber: 10,
-                            columnNumber: 13
-                        }, this)
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                    href: `gallery/${photo.id}`,
+                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                        className: "h-70 rounded-md border-2 border-white",
+                        src: photo.url,
+                        height: 800,
+                        width: 800,
+                        alt: `${photo.id}`
                     }, void 0, false, {
                         fileName: "[project]/src/app/gallery/page.tsx",
-                        lineNumber: 9,
-                        columnNumber: 11
+                        lineNumber: 10,
+                        columnNumber: 13
                     }, this)
-                ]
-            }, void 0, true, {
+                }, void 0, false, {
+                    fileName: "[project]/src/app/gallery/page.tsx",
+                    lineNumber: 9,
+                    columnNumber: 11
+                }, this)
+            }, photo.id, false, {
                 fileName: "[project]/src/app/gallery/page.tsx",
                 lineNumber: 8,
                 columnNumber: 9
