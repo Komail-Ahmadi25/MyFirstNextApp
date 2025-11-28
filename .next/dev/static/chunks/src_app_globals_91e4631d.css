@@ -320,6 +320,14 @@
     display: flex;
   }
 
+  .grid {
+    display: grid;
+  }
+
+  .h-52 {
+    height: calc(var(--spacing) * 52);
+  }
+
   .h-screen {
     height: 100vh;
   }
@@ -339,6 +347,10 @@
     scale: var(--tw-scale-x) var(--tw-scale-y);
   }
 
+  .grid-cols-1 {
+    grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+
   .flex-col {
     flex-direction: column;
   }
@@ -353,6 +365,10 @@
 
   .justify-center {
     justify-content: center;
+  }
+
+  .gap-4 {
+    gap: calc(var(--spacing) * 4);
   }
 
   .rounded-md {
@@ -446,6 +462,12 @@
   @media (hover: hover) {
     .hover\:bg-gray-600:hover {
       background-color: var(--color-gray-600);
+    }
+  }
+
+  @media (min-width: 48rem) {
+    .md\:grid-cols-4 {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
   }
 }
