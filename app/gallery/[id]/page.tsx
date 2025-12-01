@@ -22,7 +22,7 @@ export default async function PhotoPage({
           className="w-full object-cover aspect-square "
         />
 
-        <div className="bg-white py-4">
+        <div className="bg-white py-4 text-black">
           <h3>{photo.photographer}</h3>
           <h3>{photo.location}</h3>
         </div>

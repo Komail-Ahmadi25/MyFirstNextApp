@@ -1,5 +1,4 @@
 "use client";
-import Image from "next/image";
 import { useState } from "react";
 const list: { id: number; name: string }[] = [
   { id: 1, name: "Ali" },
