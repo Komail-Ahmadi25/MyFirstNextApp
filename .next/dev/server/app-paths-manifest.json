@@ -1,6 +1,6 @@
 {
   "/(homepage)/page": "app/(homepage)/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/gallery/[id]/page": "app/gallery/[id]/page.js",
+  "/gallery/@modal/(.)[id]/page": "app/gallery/@modal/(.)[id]/page.js",
   "/gallery/page": "app/gallery/page.js"
 }

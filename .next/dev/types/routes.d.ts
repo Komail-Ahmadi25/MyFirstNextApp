@@ -20,7 +20,7 @@ export type ParamsOf<Route extends Routes> = ParamMap[Route]
 
 interface LayoutSlotMap {
   "/": never
-  "/gallery": never
+  "/gallery": "modal"
 }
 
 
