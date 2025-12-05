@@ -29,7 +29,7 @@ export async function POST(request: Request) {
   };
   blogs.push(newPost);
   return new Response(JSON.stringify(newPost), {
-    headers: { "Content-Type": "application/json" },
+    headers: { "content-type": "application/json" },
     status: 200,
   });
 }

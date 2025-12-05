@@ -1,5 +1,1 @@
-[00:00:02.056] Server  LOG      ✓ Ready in 1499ms
-[00:30:55.116] Server  ERROR   TypeError: Response constructor: Invalid response status code 205
-[00:31:00.595] Server  ERROR   TypeError: Response constructor: Invalid response status code 205
-[00:31:58.382] Server  ERROR   TypeError: Response constructor: Invalid response status code 205
-[00:32:37.515] Server  ERROR   TypeError: Response constructor: Invalid response status code 205
+[00:00:03.650] Server  LOG      ✓ Ready in 2.7s
