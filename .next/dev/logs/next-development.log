@@ -1,6 +1,1 @@
-[00:00:02.330] Server  LOG      ✓ Ready in 1485ms
-[00:00:07.429] Server  LOG      ○ Compiling / ...
-[00:00:10.889] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:13.332] Server  ERROR   Error: Cookies can only be modified in a Server Action or Route Handler. Read more: https://nextjs.org/docs/app/api-reference/functions/cookies#options
-[00:00:13.604] Server  ERROR   Error: Cookies can only be modified in a Server Action or Route Handler. Read more: https://nextjs.org/docs/app/api-reference/functions/cookies#options
-[00:00:54.858] Server  ERROR   Error: Cookies can only be modified in a Server Action or Route Handler. Read more: https://nextjs.org/docs/app/api-reference/functions/cookies#options
+[00:00:02.185] Server  LOG      ✓ Ready in 1631ms
