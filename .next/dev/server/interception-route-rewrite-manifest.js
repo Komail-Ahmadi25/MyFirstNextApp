@@ -1,1 +1,1 @@
-self.__INTERCEPTION_ROUTE_REWRITE_MANIFEST="[]";
+self.__INTERCEPTION_ROUTE_REWRITE_MANIFEST="[{\"source\":\"/gallery/:nxtIid\",\"destination\":\"/gallery/(.):nxtIid\",\"has\":[{\"type\":\"header\",\"key\":\"next-url\",\"value\":\"/gallery(?:/.*)?\"}],\"internal\":true,\"regex\":\"^\\\\/gallery(?:\\\\/([^\\\\/]+?))$\"}]";

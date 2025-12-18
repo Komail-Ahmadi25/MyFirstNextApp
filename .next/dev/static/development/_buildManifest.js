@@ -1,7 +1,19 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "has": [
+          {
+            "type": "header",
+            "key": "next-url",
+            "value": "/gallery(?:/.*)?"
+          }
+        ],
+        "source": "/gallery/:nxtIid",
+        "destination": "/gallery/(.):nxtIid"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
