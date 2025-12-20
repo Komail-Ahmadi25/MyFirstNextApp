@@ -1,3 +1,6 @@
 {
-  "/time/route": "app/time/route.js"
+  "/(homepage)/page": "app/(homepage)/page.js",
+  "/time/route": "app/time/route.js",
+  "/updateProductList/route": "app/updateProductList/route.js",
+  "/welcome/page": "app/welcome/page.js"
 }
