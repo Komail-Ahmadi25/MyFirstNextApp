@@ -10,3 +10,4 @@ export async function GET() {
     { headers: { "Set-Cookie": "theme=dark" } }
   );
 }
+ 
