@@ -2,7 +2,7 @@ import React from "react";
 import Counter from "./Counter";
 
 function page() {
-  console.log("hi");
+  console.log("Hi From Server");
   return (
     <div>
       <Counter />
